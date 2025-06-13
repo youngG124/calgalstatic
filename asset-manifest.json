@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calgal/static/css/main.9e1c5e28.css",
-    "main.js": "/calgal/static/js/main.670838bf.js",
+    "main.js": "/calgal/static/js/main.ff0f63c6.js",
     "static/js/453.a83c872b.chunk.js": "/calgal/static/js/453.a83c872b.chunk.js",
     "index.html": "/calgal/index.html",
     "main.9e1c5e28.css.map": "/calgal/static/css/main.9e1c5e28.css.map",
-    "main.670838bf.js.map": "/calgal/static/js/main.670838bf.js.map",
+    "main.ff0f63c6.js.map": "/calgal/static/js/main.ff0f63c6.js.map",
     "453.a83c872b.chunk.js.map": "/calgal/static/js/453.a83c872b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e1c5e28.css",
-    "static/js/main.670838bf.js"
+    "static/js/main.ff0f63c6.js"
   ]
 }
