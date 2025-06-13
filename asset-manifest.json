@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calgal/static/css/main.9e1c5e28.css",
+    "main.js": "/calgal/static/js/main.cab7bd26.js",
+    "static/js/453.a83c872b.chunk.js": "/calgal/static/js/453.a83c872b.chunk.js",
+    "index.html": "/calgal/index.html",
+    "main.9e1c5e28.css.map": "/calgal/static/css/main.9e1c5e28.css.map",
+    "main.cab7bd26.js.map": "/calgal/static/js/main.cab7bd26.js.map",
+    "453.a83c872b.chunk.js.map": "/calgal/static/js/453.a83c872b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1c5e28.css",
+    "static/js/main.cab7bd26.js"
+  ]
+}
